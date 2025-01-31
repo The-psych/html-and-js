@@ -1,2 +1,2 @@
 # Avanthika
-I post my works here
+Full Stack using HTML and JAVASCRIPT
